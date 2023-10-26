@@ -1,2 +1,2 @@
 # sid
-speaker recognition system
+speaker identification system
